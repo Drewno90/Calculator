@@ -1,1 +1,1 @@
-# Calculator for RPN
+# Calculator for Infix notation
